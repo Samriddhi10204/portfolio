@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+    color:white;
+}
+.navbar{
+    height: 70px;
+    background-color: rgb(63, 61, 61);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navbar a{
+    color: antiquewhite;
+}
+.right{
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.left{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.content{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.message{
+    width: 60%;
+    text-align: center;
+    
+    
+    
+}
+h1{
+    margin-bottom:20px ;
+}
+h2{
+    margin-bottom: 20px;
+}
+.footer{
+    height:50px;
+    background-color: rgb(46, 42, 83);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.aboutme{
+    background-color: #98D7C2;
+    padding-left: 30px;
+    color:#167D7F;
+}
+    
+    
+    
+
+.background{
+    height: 180px;
+    
+    
+}
+
+    
+    
+
+.one{
+    text-align: center;
+    text-decoration: underline;
+}
+.education{
+    height:320px;
+}
+.experience{
+    height:180px;
+}
+.skills{
+    height:600px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    margin-left:10px;
+    border:2px bold white;
+}
+.first{
+    border: 2px solid white;
+    padding: 50px;
+    background-color: #110235;
+}
+.second{
+    border: 2px solid white;
+    padding: 50px;
+    background-color:#110235;
+}
+.heading{
+    text-align: center;
+    margin-top: 40px;
+}
+.style{
+    background-color: white;
+    color:black
+}
+.contact{
+    height: 400px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+
+    
+
+
+
+    
